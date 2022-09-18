@@ -1,0 +1,6 @@
+https://github.com/16709-PO2/projeto_integrado.git
+
+Requisitos para rodar o sistema:
+-Laravel 7.x
+-xamp
+comando se execuçao: php artisan serve
